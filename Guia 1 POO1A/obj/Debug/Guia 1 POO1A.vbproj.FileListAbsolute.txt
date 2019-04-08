@@ -1,0 +1,10 @@
+C:\Users\CATOLICA\Desktop\Guia 1 POO1A\Guia 1 POO1A\bin\Debug\Guia 1 POO1A.exe.config
+C:\Users\CATOLICA\Desktop\Guia 1 POO1A\Guia 1 POO1A\bin\Debug\Guia 1 POO1A.exe
+C:\Users\CATOLICA\Desktop\Guia 1 POO1A\Guia 1 POO1A\bin\Debug\Guia 1 POO1A.pdb
+C:\Users\CATOLICA\Desktop\Guia 1 POO1A\Guia 1 POO1A\bin\Debug\Guia 1 POO1A.xml
+C:\Users\CATOLICA\Desktop\Guia 1 POO1A\Guia 1 POO1A\obj\Debug\Guia 1 POO1A.vbprojResolveAssemblyReference.cache
+C:\Users\CATOLICA\Desktop\Guia 1 POO1A\Guia 1 POO1A\obj\Debug\Guia_1_POO1A.Resources.resources
+C:\Users\CATOLICA\Desktop\Guia 1 POO1A\Guia 1 POO1A\obj\Debug\Guia 1 POO1A.vbproj.GenerateResource.Cache
+C:\Users\CATOLICA\Desktop\Guia 1 POO1A\Guia 1 POO1A\obj\Debug\Guia 1 POO1A.exe
+C:\Users\CATOLICA\Desktop\Guia 1 POO1A\Guia 1 POO1A\obj\Debug\Guia 1 POO1A.xml
+C:\Users\CATOLICA\Desktop\Guia 1 POO1A\Guia 1 POO1A\obj\Debug\Guia 1 POO1A.pdb
